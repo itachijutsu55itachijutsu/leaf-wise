@@ -15,3 +15,8 @@ img{max-width:100%;height:auto;border-radius:8px}
 .card h3{margin:0 0 4px;font:650 19px system-ui,sans-serif}.card p{margin:0}
 footer{border-top:1px solid var(--bd);font:14px system-ui,sans-serif;color:var(--mut);margin-top:30px}
 footer a{margin-right:12px}
+
+.thumb,.hero{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:10px;background:var(--bd)}
+.thumb{margin:0 0 12px}
+.hero{margin:14px 0 18px}
+.img-ph{background:var(--card);border:2px dashed var(--bd);color:var(--mut);border-radius:10px;padding:46px 16px;text-align:center;font:14px system-ui,sans-serif;margin:18px 0}

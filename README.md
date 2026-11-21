@@ -16,3 +16,10 @@
 
 3. Put photos in /images.
 4. Push to GitHub. Vercel rebuilds automatically (vercel.json is included).
+
+thumnail upload 
+starting mey ye do lines add kerni hey
+image: /images/pothos.webp
+imageAlt: Golden pothos trailing from a shelf
+
+image alt describe whats in the image

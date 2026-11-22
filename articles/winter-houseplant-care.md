@@ -1,5 +1,5 @@
 ---
-image: /winter-houseplant-care.jpg
+image: /winterhouseplantcare.jpg
 imageAlt:"Healthy Aloe vera"
 title: "Winter Houseplant Care: Watering, Light, Humidity and Common Problems"
 description: "Learn how to care for houseplants in winter, including watering, sunlight, humidity, heating, fertilizer and fixing yellow or falling leaves."

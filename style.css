@@ -20,3 +20,11 @@ footer a{margin-right:12px}
 .thumb{margin:0 0 12px}
 .hero{margin:14px 0 18px}
 .img-ph{background:var(--card);border:2px dashed var(--bd);color:var(--mut);border-radius:10px;padding:46px 16px;text-align:center;font:14px system-ui,sans-serif;margin:18px 0}
+article figure{margin:24px 0}
+article figure img{display:block;margin:0 auto;max-height:560px;object-fit:contain}
+article figure .hero{max-height:none;object-fit:cover}
+figcaption{margin-top:8px;color:var(--mut);font:14px/1.45 system-ui,sans-serif}
+.table-wrap{overflow-x:auto;margin:18px 0}
+table{width:100%;border-collapse:collapse}
+th,td{padding:8px 10px;border-bottom:1px solid var(--bd);text-align:left;vertical-align:top}
+th{background:var(--card)}

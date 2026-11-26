@@ -11,7 +11,7 @@ Last winter, I watched two plants I'd cared for over four years slowly turn yell
 
 What confused me was that they lived in completely different places. My money plant was in the hall, away from direct sunlight, while the aloe vera was outside in the sun. Yet both seemed to be struggling. I didn't know whether the problem was light, water or something else, so I called a nursery specialist rather than continuing to guess.
 
-He advised me to change the money plant's water completely, put its roots into fresh water in a clean glass container, and treat the leaves with a spray. For the aloe vera, he advised daily watering. I followed his instructions, and within three to four days both plants began looking better. It took around a month for them to recover fully.
+He advised me to change the money plant's water completely, put its roots into fresh water in a clean glass container, and treat the leaves with a spray. For the aloe vera, he advised daily watering. I followed his instructions, and both plants began looking better and eventually recovered.
 
 That experience taught me something more useful than any fixed winter watering schedule: **two plants showing similar symptoms can need very different care.** I also wouldn't recommend daily watering for every aloe vera plant simply because it was the advice given for mine. Aloe usually needs well-draining soil and careful watering, especially in cooler weather. I don't know exactly which factor caused the yellowing or which part of the treatment helped most.
 
@@ -87,7 +87,7 @@ That's why **you should check the soil before deciding whether a plant needs wat
 
 ### What Happened With My Aloe Vera
 
-The nursery specialist I contacted advised me to water my yellowing aloe vera daily. I followed that advice for my particular plant, and it started showing improvement within three to four days. By about a month later, it had recovered.
+The nursery specialist I contacted advised me to water my yellowing aloe vera daily. I followed that advice for my particular plant, and it started showing improvement and eventually recovered.
 
 I'm sharing that because it was part of what actually happened, **not because daily watering is the right routine for aloe vera in winter**. Aloe is a succulent, and constantly wet soil can damage its roots. Without knowing the exact weather, soil moisture, drainage and root condition at the time, I can't say why that recommendation worked in my situation. If your aloe is turning yellow, check its soil and roots before increasing watering, and seek plant-specific advice if the cause isn't clear.
 
@@ -186,7 +186,7 @@ If your windows become extremely cold overnight, move sensitive plants slightly 
 
 My money plant was kept in the hall, in front of a room, away from direct sunlight. When its leaves started turning yellow, I initially had no clear explanation. At the same time, my aloe vera was outside receiving sun and was also yellowing. That was a reminder that sunlight alone doesn't tell you what is wrong with a plant.
 
-The nursery specialist did not tell me to move the money plant. Instead, he changed its old water, placed its roots in fresh water in a glass container and used a leaf spray. I kept it in the same general location. It began to improve within a few days, and its recovery took about a month.
+The nursery specialist did not tell me to move the money plant. Instead, he changed its old water, placed its roots in fresh water in a glass container and used a leaf spray. I kept it in the same general location. It began to improve and eventually recovered.
 
 Because several things changed at once, I can't attribute the recovery to the fresh water, the spray or any single step. If you grow a money plant in water, checking water cleanliness, root condition and available indirect light is a sensible place to start. Don't copy an unidentified spray treatment without knowing what it contains and whether it's suitable for your plant.
 
@@ -645,7 +645,7 @@ Check the soil, drainage, temperature and recent changes before deciding what to
 
 ### How often should I rotate my houseplants in winter?
 
-There isn't a universal schedule. I also have no proper schedule for it, 
+There isn't a universal schedule. I do not follow a fixed rotation schedule. 
 
 If a plant receives directional light and begins leaning, occasional rotation can encourage more balanced growth.
 
@@ -669,7 +669,7 @@ Put a date on a photo of any yellowing leaf. A leaf that is already damaged can 
 
 ## The Most Important Thing to Remember
 
-The part of last winter I remember most clearly isn't the yellow leaves. It's how relieved I was when both plants started recovering after three or four days. I'd had my money plant and aloe vera for four years, and I genuinely thought I might lose them. A month later, both had recovered.
+The part of last winter I remember most clearly isn't the yellow leaves. It's how relieved I was when both plants started recovering. I'd had my money plant and aloe vera for four years, and I genuinely thought I might lose them. Both eventually recovered.
 
 What stayed with me is how differently they were being kept: one indoors in water without direct sunlight, the other outdoors receiving sun. They looked as if they had the same problem, but that didn't mean they necessarily had the same cause. Getting individual advice helped me take action instead of guessing.
 

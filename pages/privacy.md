@@ -4,7 +4,7 @@ description: How {{name}} collects, uses and protects visitor information, inclu
 ---
 Last updated: November 2026
 
-{{name}} ("we", "us") is operated by {{author}}. This policy explains what information is collected when you visit this website and how it's used. By using the site, you agree to this policy.
+{{name}} ("we", "us") is operated by {{author}}. This policy explains what information is collected when you visit this website and how it's used.
 
 ## Information we collect
 
@@ -22,6 +22,8 @@ Cookies are small files stored in your browser. We and our partners may use them
 ## Advertising
 
 We may use Google AdSense to display ads. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to this site and other sites on the internet.
+
+Google and its advertising partners may collect or receive information through cookies, web beacons, IP addresses and other identifiers when their services are used on this site. Read [how Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites). Where required, consent choices will be provided before relevant advertising storage or processing, and visitors can manage those choices through the consent interface when available.
 
 You can opt out of personalized advertising by visiting [Google Ads Settings](https://www.google.com/settings/ads). You can also opt out of some third-party vendors' use of cookies for personalized advertising at [aboutads.info](https://www.aboutads.info).
 
@@ -47,7 +49,7 @@ We take reasonable steps to protect information, but no method of transmission o
 
 ## Changes to this policy
 
-We may update this policy from time to time. The "last updated" date at the top shows when it was last changed, and continued use of the site means you accept the updated version.
+We may update this policy from time to time. The "last updated" date at the top shows when it was last changed.
 
 ## Contact
 

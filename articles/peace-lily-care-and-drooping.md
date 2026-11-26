@@ -119,7 +119,7 @@ Yes, mildly. South Dakota State University Extension notes that all parts of the
 
 This is where the name causes confusion. True lilies (Lilium species) and daylilies are extremely dangerous to cats, even in small amounts, and the ASPCA warns about them in its toxic plant list. Peace lilies are a different plant with a different, milder toxin. Even so, if you have a cat, the safest choice is to keep the plant out of reach or choose a pet-safe alternative. You can check any plant on the ASPCA's list, and our [pet-safe houseplants guide](/pet-safe-houseplants/) suggests alternatives.
 
-If your pet has chewed a peace lily, rinse out its mouth, offer water and contact your vet, particularly if there is persistent drooling, vomiting or trouble swallowing.
+If your pet has chewed a peace lily, separate it from the plant and contact your veterinarian or an animal poison control service promptly. Do not force water, induce vomiting or give home remedies unless a veterinarian instructs you to. Difficulty breathing or swallowing requires urgent veterinary care. Keep a photo or label of the plant for identification; suspected exposure to true lilies or daylilies in cats is an emergency even before symptoms appear. See the [ASPCA peace lily toxicity listing](https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/peace-lily) and our [pet-safe houseplants guide](/pet-safe-houseplants/).
 
 ## Check how evenly the root ball absorbs water
 
